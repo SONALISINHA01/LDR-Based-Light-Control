@@ -31,8 +31,13 @@ This project demonstrates how to use an **LDR (Light Dependent Resistor)** with 
 ---
 
 ## 🔗 Circuit Diagram
-![Circuit Diagram](WITH_EXTERNAL_SOURCE_OF_LIGHT.png)
-![Circuit Diagram](WITHOUT_EXTERNAL_SOURCE_OF_LIGHT.png)
+
+### With External Source of Light
+![With External Source of Light](WITH%20EXTERNAL%20SOURCE%20OF%20LIGHT.png)
+
+### Without External Source of Light
+![Without External Source of Light](WITHOUT%20EXTERNAL%20SOURCE%20OF%20LIGHT.png)
+
 
 ---
 
